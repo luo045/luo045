@@ -1,0 +1,1 @@
+﻿F4::Send {WheelDown 2} ;y值变化100
